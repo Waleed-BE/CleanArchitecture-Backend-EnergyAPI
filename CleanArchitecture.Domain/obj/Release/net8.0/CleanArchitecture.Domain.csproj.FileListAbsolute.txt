@@ -1,0 +1,12 @@
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\bin\Release\net8.0\CleanArchitecture.Domain.deps.json
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\bin\Release\net8.0\CleanArchitecture.Domain.dll
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\bin\Release\net8.0\CleanArchitecture.Domain.pdb
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\CleanArchitecture.Domain.AssemblyInfo.cs
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\CleanArchitecture.Domain.dll
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\refint\CleanArchitecture.Domain.dll
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\CleanArchitecture.Domain.pdb
+E:\HomeAutomation\ProjHomeAuto\CleanArchitecture\CleanArchitecture.Domain\obj\Release\net8.0\ref\CleanArchitecture.Domain.dll
